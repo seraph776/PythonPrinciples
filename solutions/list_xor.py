@@ -3,7 +3,7 @@
 created: 2022-07-09 12:30:45
 @author: seraph★1001100
 contact: admin@codecrypt76.com
-project: Python Principles; Custom zip
+project: Python Principles; List XOR
 metadoc: Define a function named list_xor. Your function should take three parameters: n, list1 and list2.
          Your function must return whether n is exclusively in list1 or list2.
          In other words, if n is in both lists or in none of the lists, return False. If n is in only one of the lists,
