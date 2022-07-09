@@ -3,7 +3,7 @@
 created: 2022-07-09 12:30:45
 @author: seraph★1001100
 contact: admin@codecrypt76.com
-project: Python Principles; Anagrams
+project: Python Principles; Divisble by 3
 metadoc: Define a function named div_3 that returns True if its single integer parameter is
          divisible by 3 and False otherwise.
 license: None
