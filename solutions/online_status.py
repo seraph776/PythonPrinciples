@@ -3,7 +3,7 @@
 created: 2022-07-09 12:30:45
 @author: seraph★1001100
 contact: admin@codecrypt76.com
-project: Python Principles; Middle Letter
+project: Python Principles; Online Status
 metadoc: The aim of this challenge is, given a dictionary of people's online status, to count the number of
          People who are online. The dictionary used: statuses = {"Alice": "online","Bob": "offline","Eve": "online",}
 license: None
